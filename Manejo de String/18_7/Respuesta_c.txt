@@ -1,0 +1,4 @@
+Si no tuviera la clave para descodificar el mensaje, simpleamente
+probaria con todas las claves hasta el 26 en alguna de esas el
+programa devolveria un mensaje coherente. Por lo que no es tan dificil
+de llegar al mensaje.
