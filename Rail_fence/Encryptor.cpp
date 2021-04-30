@@ -35,7 +35,7 @@ string encryptor::encrypted(string& ms){
     return ms_cifrado;
 }
 
-string encryptor::decrypted(string& ms) {
+string encryptor::ms(string& ms) {
     string ms_decifrado;
     int aux_1=clave,aux_2=1,aux_3;
     int constante;
